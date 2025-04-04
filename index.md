@@ -1,5 +1,5 @@
 # Hello! My name is **Nelson**
-[Picture of me](./profilepic.jpg)
+[Picture of me](profilepic.jpg)
 Currently I am a third year studying **Math-CS @ UCSD** and I am passionate about full-stack developement
 
 ## LinkedIn
